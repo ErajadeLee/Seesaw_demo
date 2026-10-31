@@ -1,0 +1,138 @@
+{
+  "version": "1.1.1",
+  "archive": "Seesaw_demo-1.1.1-Windows-x64.zip",
+  "size": 107952760,
+  "sha256": "4a0145fb48a54506cd1c104e5e57a959bbf18ab57bf421870a2539cfdc58c438",
+  "parts": [
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part001",
+      "size": 4194304,
+      "sha256": "04e49ec6d4ea7a60d1c24085bb4c27d3cd3c497a308b1da314b9318bb812b1ae"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part002",
+      "size": 4194304,
+      "sha256": "e12c159c4da9a05dadf5def8229fede7f5dc06e4be03f39fe00ca35edad3983c"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part003",
+      "size": 4194304,
+      "sha256": "35800d10ac9796ca572c1c887b1dec87911a1e7e71496128eda6bc6c32b9c363"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part004",
+      "size": 4194304,
+      "sha256": "de845e15a7e392a178ca0eb9aeda43cc87ccae01d3c90acc44886f16d9486708"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part005",
+      "size": 4194304,
+      "sha256": "edcf3deb68abbc8d94c6dbabbc37007f750647c8a26c0e05cf16281887f21c46"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part006",
+      "size": 4194304,
+      "sha256": "700d5cfb20284c0b84ada2959561af0d4137bffb81060c3aaba06e9b20e49e2d"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part007",
+      "size": 4194304,
+      "sha256": "3ef678a182555867e0af4ac5c3516a9d318cde53ce8caf68e029c6ba932bed81"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part008",
+      "size": 4194304,
+      "sha256": "eacfe898475bfa07ac794055655c5b160cb3eb63510d620031c1c98729864312"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part009",
+      "size": 4194304,
+      "sha256": "4261d89c4918cf41cc044c2c2456f3652345fc7281b79905d8f7eeda4e3ec9a4"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part010",
+      "size": 4194304,
+      "sha256": "65367425bd6c51200d2c25a448bfe1d127ad8866cd9444ac322e0883b05c02e0"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part011",
+      "size": 4194304,
+      "sha256": "7b1f3602721dd345a13a61e531103153b4c00ab9e5874222c811eb9fb14bb262"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part012",
+      "size": 4194304,
+      "sha256": "ba5e52f69f8901d918b9462e2fac2da6e93efd860d0acd3a213342b6cd7082bd"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part013",
+      "size": 4194304,
+      "sha256": "c81f421a14439eb4ab3c9e8dd3f99c3db3b3e53b6d706f8a1448001ebfde4940"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part014",
+      "size": 4194304,
+      "sha256": "fdeb2d6b2efd596bdc06db1e521a6d8416e1b8e4776cf01e5d247ac5a2d71944"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part015",
+      "size": 4194304,
+      "sha256": "b63e47c5bf8a12c54d3115fca7dd3c5ce73b3ca5be7d5fc0c0821470e81b84cd"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part016",
+      "size": 4194304,
+      "sha256": "d315183d09a3425b2073cff18d2e014a91a2d2cca706dc3010fbc44bf3053bd2"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part017",
+      "size": 4194304,
+      "sha256": "4dec66a87c4e3ab790808f77199ccec2111eb1a08cf2ea5eebc93d717a865e56"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part018",
+      "size": 4194304,
+      "sha256": "8213cd7a4e7cc2b0ff77ddec58e7425eb4a3e19fe1044065255c565a8a863714"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part019",
+      "size": 4194304,
+      "sha256": "4825a5428e17f84aac64dca8f6af81a3ca75e51bdf4a9ea23f2b0382cf3876f8"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part020",
+      "size": 4194304,
+      "sha256": "c2bf459220005b14f01b03e4a9cedd3996ed339adf0d6dc1438232d127fc464f"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part021",
+      "size": 4194304,
+      "sha256": "9458f6c73e07e104bae5b4d09135c8ed585efb42c28f4a57a860332b3a1797bb"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part022",
+      "size": 4194304,
+      "sha256": "48875ae35fe2e0dc160e3050577c15c30c456bfbc75a8c9f3a6cbcb2695504d4"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part023",
+      "size": 4194304,
+      "sha256": "cfa1e6c0960825c2697c878037455665f70824f4e20ffe929dba320e507f0f2c"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part024",
+      "size": 4194304,
+      "sha256": "2573d49ea2203312d4641f90ef712e50df78e2e0ef9a12b2a61a3e36c84b6dc1"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part025",
+      "size": 4194304,
+      "sha256": "ce1806c7997a9165e32214ab0ae5d03016cb3f72766ec79a9730f77492a014cb"
+    },
+    {
+      "path": "package/Seesaw_demo-1.1.1.zip.part026",
+      "size": 3095160,
+      "sha256": "e60955fdc981bb430ee8d3425c061304d4abee96257712131997aa8924ce8443"
+    }
+  ]
+}
